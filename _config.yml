@@ -4,6 +4,7 @@ description: 'Ответим на любые ваши вопросы и помо
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
+url: '//100sovetov.club'
 disqus: ''
 email: ''
 mailchimp-list: ''
