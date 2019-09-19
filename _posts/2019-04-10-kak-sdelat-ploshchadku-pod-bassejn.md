@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "как сделать площадку под бассейн"
+title:  "Kак сделать площадку под бассейн"
 author: admin
 categories: [ своими руками, дача, бассейн ]
 image: assets/images/6.jpg
