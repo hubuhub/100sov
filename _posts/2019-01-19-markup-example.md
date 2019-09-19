@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title:  "Markdown Example"
 author: admin
 categories: [ Jekyll, tutorial ]
