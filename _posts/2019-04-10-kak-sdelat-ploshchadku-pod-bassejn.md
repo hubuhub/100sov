@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kак сделать площадку под бассейн"
-author: admin
+author: 
 categories: [ своими руками, дача, бассейн ]
 image: assets/images/ploshadka-pod-bassejn.jpeg
 tags: 
