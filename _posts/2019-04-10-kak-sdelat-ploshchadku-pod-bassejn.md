@@ -5,6 +5,7 @@ author:
 categories: [ своими руками, дача, бассейн ]
 image: assets/images/ploshadka-pod-bassejn.jpeg
 tags: featured
+hidden: false
 ---
 Вы хотите купить бассейн и разместить его под открытым воздухом? Тогда необходимо тщательно подготовиться к монтажу и корректно провести его. Каркасная чаша прослужит вам долгое время, если вы будете соблюдать наши рекомендации и правильно подготовите площадку для бассейна на даче. А вот купить каркасный бассейн вы можете тут — [https://www.intexpool.ru/category/bassejny/karkasniy-bassein/](https://www.intexpool.ru/category/bassejny/karkasniy-bassein/).
 
