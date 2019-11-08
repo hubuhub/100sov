@@ -3,7 +3,7 @@ layout: post
 title:  "Как сделать стол из поддонов своими руками"
 author: 
 categories: [ своими руками, дача, дом ]
-image: assets/images/
+image: assets/images/stol-iz-poddonov-svoimi-rukami.jpg
 tags: featured
 hidden: false
 ---
