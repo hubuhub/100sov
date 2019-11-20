@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Host: http://100sovetov.club
-Sitemap: http://100sovetov.club/sitemap.xml
+Host: https://100sovetov.club
+Sitemap: https://100sovetov.club/sitemap.xml
