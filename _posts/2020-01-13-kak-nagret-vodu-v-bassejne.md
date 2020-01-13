@@ -3,7 +3,7 @@ layout: post
 title:  "Как быстро нагреть воду в бассейне"
 author: 
 categories: [ своими руками, дача, дом ]
-image: 
+image: assets/images/kak-nagret-vodu-v-bassejne-1.jpg
 tags: featured
 hidden: false
 ---
